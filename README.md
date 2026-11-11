@@ -33,7 +33,7 @@ Highlights:
   - 🎵 **TikTok:** [@aayushifty](https://www.tiktok.com/@aayushifty)
   - 💼 **LinkedIn:** [aayushifty](https://www.linkedin.com/in/aayushifty)
   - ✍️ **DEV Community:** [@aayushifty](https://dev.to/aayushifty)
-  - 🌐 **Website & 3D Portfolio:** [aayushifty.is-a.dev](https://aayushifty.is-a.dev/)
+  - 🌐 **Portfolio:** [aayushifty.is-a.dev](https://aayushifty.is-a.dev/)
   - 📬 **Email:** [aayushbhatta230@gmail.com](mailto:aayushbhatta230@gmail.com)
 
 ---
@@ -137,7 +137,7 @@ Beyond engineering, I am a competitive athlete (basketball and endurance trail c
 
 ## Contact & Profiles
 
-- **Website & 3D Portfolio:** [aayushifty.is-a.dev](https://aayushifty.is-a.dev/) (Source: [github.com/aayushifty/aayush-room-portfolio](https://github.com/aayushifty/aayush-room-portfolio))
+- **Portfolio:** [aayushifty.is-a.dev](https://aayushifty.is-a.dev/) (Source: [github.com/aayushifty/aayushifty-portfolio](https://github.com/aayushifty/aayushifty-portfolio))
 - **Email:** [aayushbhatta230@gmail.com](mailto:aayushbhatta230@gmail.com)
 - **GitHub:** [github.com/aayushifty](https://github.com/aayushifty)
 - **TikTok:** [@aayushifty](https://www.tiktok.com/@aayushifty)
